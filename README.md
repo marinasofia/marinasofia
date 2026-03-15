@@ -19,9 +19,14 @@ Tech: Python · Flask · SQLite · Next.js · Tailwind CSS · Recharts · Railwa
 
 ---
 
-### 🔍 NYC Real Estate Intelligence Platform
-AI-powered tool that analyzes NYC real estate listings using the Claude API.  
-Tech: Python · Flask · SQLite · Claude API · Railway
+### 🏙️ NYC Luxury Real Estate Intelligence Platform
+Comparable sales search tool powered by 34,000+ NYC Open Data residential sales records.
+- Search by borough, neighborhood, and price range → get recent comps instantly
+- Claude API generates an AI market summary analyzing pricing trends
+- Exports a PDF comp report
+
+**Live demo available upon request**  
+Tech: Python · Flask · SQLite · Claude API (Anthropic) · Railway
 
 ---
 
