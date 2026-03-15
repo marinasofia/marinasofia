@@ -1,4 +1,4 @@
-# Marina Sofia Martin
+# Marina Martin
 
 CIS student at Baruch College (CUNY), graduating May 2027.
 I build data pipelines, analytics platforms, and AI-powered tools with Python, SQL, and real APIs.
