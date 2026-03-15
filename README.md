@@ -1,59 +1,56 @@
 # Marina Sofia Martin
 
-CIS student at Baruch College, graduating 2027.
-
-I build data tools and AI-powered applications with Python, SQL, and real APIs.
-Currently pursuing the Google Advanced Data Analytics Certificate.
+CIS student at Baruch College (CUNY), graduating May 2027.
+I build data pipelines, analytics platforms, and AI-powered tools with Python, SQL, and real APIs.
 
 ---
 
 ## Projects
 
-### 🔍 [AI Internship Intelligence Tool](https://github.com/marinasofia/sales-intelligence-tool)
-Built this because I was spending 30+ minutes researching each company before applying. Now it takes 6 minutes.
+### 🏛️ Maison Analytics — Luxury Retail Intelligence Platform
+Full-stack analytics dashboard for a synthetic luxury retail dataset. Built end-to-end and deployed live.
+- Synthetic database of 3,000 clients, 6,400 transactions, 15 global boutiques across 3 fictional maisons
+- Flask REST API with 8 endpoints serving revenue, margin, client tier, and inventory data
+- Next.js dashboard with Recharts visualizations — dark obsidian + gold aesthetic
+- Deployed on Railway (two services: API + frontend)
 
-Enter a company URL → get a tailored project pitch you can send in 60 seconds.
-
-- Scrapes homepage, about, blog, and product pages with retry logic and error handling
-- Uses OpenAI GPT-4o-mini to analyze what the company does and identify gaps
-- Generates a concrete project proposal and drafts an outreach email
-- Outputs a professional PDF report via a Streamlit web interface
-
-**Result:** Analyzed 100+ companies in my first month using it.  
-**Tech:** Python · OpenAI API · Streamlit · BeautifulSoup
+**Live demo:** https://hearty-eagerness-production-4f43.up.railway.app  
+Tech: Python · Flask · SQLite · Next.js · Tailwind CSS · Recharts · Railway
 
 ---
 
-### 📧 [AI Lead Email Automation](https://github.com/marinasofia/ai-lead-automation)
-Automatically generates personalized follow-up emails for sales leads using the **Claude API (Anthropic)** and Google Sheets.
+### 🔍 NYC Real Estate Intelligence Platform
+AI-powered tool that analyzes NYC real estate listings using the Claude API.  
+Tech: Python · Flask · SQLite · Claude API · Railway
 
-- Reads lead data (name, company, interest) directly from a Google Sheet
-- Generates a unique, personalized email for each lead using Claude AI
-- Writes emails back into the sheet automatically — skips leads already processed
-- Fully automated pipeline: add a lead → email appears in column D
+---
 
-**Tech:** Python · Claude API (Anthropic) · Google Sheets API · gspread
+### 📧 AI Lead Email Automation
+Automatically generates personalized outreach emails from Google Sheets using the Claude API.
+- Reads lead data directly from a Google Sheet
+- Generates a unique email per lead using Claude AI
+- Writes emails back into the sheet — skips already-processed leads
+
+Tech: Python · Claude API (Anthropic) · Google Sheets API · gspread
 
 ---
 
 ## Skills
 
-**Languages:** Python, SQL  
-**Data & BI Tools:** Power BI, Tableau, Excel (VBA), Microsoft Fabric  
-**Libraries:** pandas, NumPy, Streamlit, BeautifulSoup, Matplotlib, Seaborn  
-**Databases:** MySQL, PostgreSQL, BigQuery  
-**APIs:** OpenAI API, Claude API (Anthropic), Google Sheets API  
+**Languages:** Python, SQL, JavaScript  
+**Frontend:** Next.js, React, Tailwind CSS  
+**Data & BI:** Power BI, Tableau, Excel (VBA), Microsoft Fabric  
+**Libraries:** pandas, NumPy, Streamlit, Recharts, Matplotlib  
+**Databases:** SQLite, MySQL, PostgreSQL  
+**APIs:** Claude API (Anthropic), Google Sheets API, OpenAI API  
+**Cloud:** Railway, GitHub
 
 ---
 
 ## Certifications
-
-- Kaggle: Intro to SQL — February 2026
 - Google Advanced Data Analytics Certificate — In Progress, 2026
+- Kaggle: Intro to SQL — February 2026
 
 ---
 
-## Contact
-
-📧 marinasofiaml@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/marinasofiaml/)
+📧 marinasofiaml@gmail.com · [LinkedIn](www.linkedin.com/in/marinasofiaml)
