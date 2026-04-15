@@ -14,7 +14,6 @@ Full-stack analytics dashboard for a synthetic luxury retail dataset. Built end-
 - Next.js dashboard with Recharts visualizations — dark obsidian + gold aesthetic
 - Deployed on Railway (two services: API + frontend)
 
-**Live demo:** https://hearty-eagerness-production-4f43.up.railway.app  
 Tech: Python · Flask · SQLite · Next.js · Tailwind CSS · Recharts · Railway
 
 ---
@@ -42,8 +41,7 @@ Tech: Python · Claude API (Anthropic) · Google Sheets API · gspread
 
 ## Skills
 
-**Languages:** Python, SQL, JavaScript  
-**Frontend:** Next.js, React, Tailwind CSS  
+**Languages:** Python, SQL, JavaScript   
 **Data & BI:** Power BI, Tableau, Excel (VBA), Microsoft Fabric  
 **Libraries:** pandas, NumPy, Streamlit, Recharts, Matplotlib  
 **Databases:** SQLite, MySQL, PostgreSQL  
