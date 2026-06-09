@@ -35,11 +35,4 @@ development, RAG, prompt engineering, workflow automation
 
 ---
 
-## Currently Learning
-
-LLM Engineering: Master AI & Large Language Models — Udemy, 2026  
-RAG pipelines · LLM agents · multi-agent systems
-
----
-
 📧 marinasofiaml@gmail.com · [LinkedIn](https://linkedin.com/in/marinasofiaml)
