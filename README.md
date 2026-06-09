@@ -1,59 +1,45 @@
 # Marina Martin
 
-CIS student at Baruch College (CUNY), graduating May 2027.
-I build data pipelines, analytics platforms, and AI-powered tools with Python, SQL, and real APIs.
-
+Python · SQL · LLM Agent Development · Workflow Automation  
 ---
 
 ## Projects
 
-### 🏛️ Maison Analytics — Luxury Retail Intelligence Platform
-Full-stack analytics dashboard for a synthetic luxury retail dataset. Built end-to-end and deployed live.
-- Synthetic database of 3,000 clients, 6,400 transactions, 15 global boutiques across 3 fictional maisons
-- Flask REST API with 8 endpoints serving revenue, margin, client tier, and inventory data
-- Next.js dashboard with Recharts visualizations — dark obsidian + gold aesthetic
-- Deployed on Railway (two services: API + frontend)
+### AI Lead Email Automation
+Reads leads from Google Sheets, generates personalised outreach emails using 
+Claude API, and writes output back automatically. Skip logic prevents 
+double-processing on re-run.
 
-Tech: Python · Flask · SQLite · Next.js · Tailwind CSS · Recharts · Railway
-
----
-
-### 🏙️ NYC Luxury Real Estate Intelligence Platform
-Comparable sales search tool powered by 34,000+ NYC Open Data residential sales records.
-- Search by borough, neighborhood, and price range → get recent comps instantly
-- Claude API generates an AI market summary analyzing pricing trends
-- Exports a PDF comp report
-
-**Live demo available upon request**  
-Tech: Python · Flask · SQLite · Claude API (Anthropic) · Railway
+Tech: Python · Claude API (Anthropic) · Google Sheets API · gspread  
+→ [github.com/marinasofia/ai-lead-automation](https://github.com/marinasofia/ai-lead-automation)
 
 ---
 
-### 📧 AI Lead Email Automation
-Automatically generates personalized outreach emails from Google Sheets using the Claude API.
-- Reads lead data directly from a Google Sheet
-- Generates a unique email per lead using Claude AI
-- Writes emails back into the sheet — skips already-processed leads
+### Internship Intelligence Agent
+Web scraper and OpenAI-powered tool that analyzes a company website and 
+returns a concrete internship project pitch. Reduced manual research time 
+from 30 minutes to 6 minutes. Used to analyze 100+ companies.
 
-Tech: Python · Claude API (Anthropic) · Google Sheets API · gspread
+Tech: Python · Streamlit · BeautifulSoup · OpenAI API · FPDF  
+→ [github.com/marinasofia/sales-intelligence-tool](https://github.com/marinasofia/sales-intelligence-tool)
 
 ---
 
 ## Skills
 
-**Languages:** Python, SQL, JavaScript   
-**Data & BI:** Power BI, Tableau, Excel (VBA), Microsoft Fabric  
-**Libraries:** pandas, NumPy, Streamlit, Recharts, Matplotlib  
-**Databases:** SQLite, MySQL, PostgreSQL  
-**APIs:** Claude API (Anthropic), Google Sheets API, OpenAI API  
-**Cloud:** Railway, GitHub
+**Languages:** Python, SQL (BigQuery, MySQL, PostgreSQL)  
+**AI & Agentic:** LangGraph, Claude API (Anthropic), OpenAI API, LLM agent 
+development, RAG, prompt engineering, workflow automation  
+**Data & BI:** pandas, NumPy, Power BI, Tableau, Matplotlib, Excel, Google Sheets  
+**Tools:** Streamlit, BeautifulSoup, openpyxl, Google Sheets API, Microsoft Fabric  
 
 ---
 
-## Certifications
-- Google Advanced Data Analytics Certificate — In Progress, 2026
-- Kaggle: Intro to SQL — February 2026
+## Currently Learning
+
+LLM Engineering: Master AI & Large Language Models — Udemy, 2026  
+RAG pipelines · LLM agents · multi-agent systems
 
 ---
 
-📧 marinasofiaml@gmail.com · [LinkedIn](www.linkedin.com/in/marinasofiaml)
+📧 marinasofiaml@gmail.com · [LinkedIn](https://linkedin.com/in/marinasofiaml)
