@@ -11,6 +11,7 @@ I build agentic systems that merge messy, disconnected data, automate the manual
 ### Bank Statement Extraction Agent
 A 6 node LangGraph agent that turns PDF bank statements in dozens of inconsistent layouts into validated, deduplicated Excel reports. Self healing retry loop on schema failure, multi tenant YAML config, prompt injection hardening, concurrent batch processing.
 Tech: Python · LangGraph · Claude API (Anthropic) · Pydantic v2 · openpyxl
+→ [github.com/marinasofia/statement-agent](https://github.com/marinasofia/statement-agent)
 
 ### Bank Customer Retention Economics *(in progress)*
 Churn prediction with a business economics layer: customer lifetime value, revenue at risk, and a value by risk segmentation answering which customers are worth saving. Ships with a VC style investment memo and a Streamlit app.
