@@ -8,8 +8,6 @@ I build agentic LLM systems, analytics, and ML models that turn messy financial 
 
 **[bank-churn-model](https://github.com/marinasofia/bank-churn-model)** · Credit card churn prediction with a fairness audit: class-weighted logistic regression on 10,127 customers, ROC-AUC 0.87 with up to 89% churner recall, a threshold sweep sized to retention team capacity, and demographic parity and equal opportunity checks across gender and income.
 
-**Also built** · [ai-lead-automation](https://github.com/marinasofia/ai-lead-automation) and [sales-intelligence-tool](https://github.com/marinasofia/sales-intelligence-tool), LLM workflow automation used on 15,000+ contacts and 100+ companies.
-
 **Stack** · Python, SQL (BigQuery, MySQL, PostgreSQL), pandas, scikit-learn, LangGraph, Claude API, Power BI, Tableau
 
 marinasofiaml@gmail.com · [LinkedIn](https://linkedin.com/in/marinasofiaml) · [marinasofia.github.io](https://marinasofia.github.io)
