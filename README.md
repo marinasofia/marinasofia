@@ -9,5 +9,3 @@ I build systems that turn complex data into useful products, from intelligent au
 **Relationship Intelligence Platform** · Live 4 repository ML system that predicts relationship decay from communication cadence metadata: a custom sentiment model on a pretrained language model that cut prediction error more than 2x versus baseline on a 32,000+ row held out set, a rhythm-relative churn label, user-level train/test splits, 14 database migrations, 10 serverless edge functions. Code private.
 
 **Stack** · Python, SQL (BigQuery, MySQL, PostgreSQL), pandas, scikit-learn, LangGraph, Claude API, TypeScript, React, Power BI, Tableau
-
-marinasofiaml@gmail.com · [LinkedIn](https://linkedin.com/in/marinasofiaml) · [marinasofia.github.io](https://marinasofia.github.io)
