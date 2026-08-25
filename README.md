@@ -1,6 +1,6 @@
 # Marina Martin
 
-I build agentic LLM systems, analytics, and ML models that turn messy data into validated, decision ready output. New York City.
+I build systems that turn complex data into useful products, from intelligent automation and predictive models to tools that help people make better decisions.
 
 **[statement-agent](https://github.com/marinasofia/statement-agent)** · LangGraph agent that extracts structured data from PDF bank statements into validated, deduplicated Excel reports. Six node StateGraph, Pydantic v2 validation with a bounded corrective retry, prompt injection hardening, multi tenant YAML config, concurrent batch processing.
 
