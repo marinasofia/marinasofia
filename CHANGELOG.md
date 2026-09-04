@@ -5,6 +5,11 @@ development branch; they do not imply a published package or deployed site.
 
 ## Unreleased
 
+### Changed
+
+- Rename the job-matching project and its repository links to Sourcer.
+
+
 ### Added
 
 - MIT license for repository documentation.

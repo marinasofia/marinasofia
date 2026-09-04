@@ -4,7 +4,7 @@ I build systems that turn complex data into useful products, from intelligent au
 
 **[statement-agent](https://github.com/marinasofia/statement-agent)** · LangGraph pipeline that extracts PDF bank statements into Excel, with schema validation, arithmetic reconciliation, review routing, configurable formats, and offline replay evaluations.
 
-**[hermes](https://github.com/marinasofia/hermes)** · Job matching pipeline with LangGraph, Claude, SQLite or Snowflake, deterministic filtering, application tracking, and a [live dashboard](https://marinasofia.github.io/hermes/). See the repository for current test results, operating limits, and deployment status.
+**[sourcer](https://github.com/marinasofia/sourcer)** · Job matching pipeline with LangGraph, Claude, SQLite or Snowflake, deterministic filtering, application tracking, and a [live dashboard](https://marinasofia.github.io/sourcer/). See the repository for current test results, operating limits, and deployment status.
 
 **Relationship Intelligence Platform** · Live 4 repository ML system that predicts relationship decay from communication cadence metadata: a custom sentiment model on a pretrained language model that cut prediction error more than 2x versus baseline on a 32,000+ row held out set, a rhythm-relative churn label, user-level train/test splits, 14 database migrations, 10 serverless edge functions. Code private.
 
