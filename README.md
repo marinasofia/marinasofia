@@ -13,4 +13,3 @@ My portfolio is a New York subway car. Ride it to each project and read the post
 - **[Sourcer](https://github.com/marinasofia/sourcer)** reads thousands of company job boards every morning, sets aside what cannot fit with plain rules and has an LLM judge the rest against my own work history.
 - **[Knowledge Assistant](https://github.com/marinasofia/knowledge-assistant)** answers questions from company documents with exact citations, and says so when it does not know.
 - **[Statement Agent](https://github.com/marinasofia/statement-agent)** is a LangGraph agent that turns PDF bank statements into validated Excel reports.
-- **[Bank Churn Model](https://github.com/marinasofia/bank-churn-model)** predicts credit card churn and audits the model for fairness across gender and income.
