@@ -1,15 +1,25 @@
 # Marina Martin
 
-**Data and AI builder in New York.** Business intelligence and automation experience across academic, startup and advisory settings, now building machine learning and LLM systems end to end.
+**Data and AI builder in New York.** I build machine learning and LLM systems end to end and trust a number only after I have tried to break it. BBA in Computer Information Systems with a minor in Computer Science, graduating 2027. Data analytics experience at Columbia University Irving Medical Center, an M&A advisory firm and the NYC Tech Talent Pipeline.
+
+Open to data, AI, analytics and product roles starting spring 2027.
+
+**[Portfolio](https://marinasofia.github.io/)** · [Plain text version](https://marinasofia.github.io/lofi.html) · [LinkedIn](https://www.linkedin.com/in/marinasofiaml/)
 
 My portfolio is a New York subway car. Ride it to each project and read the poster on the platform.
 
-<a href="https://marinasofia.github.io/"><img src="assets/portfolio.gif" width="720" alt="The portfolio, a subway car that rides to a station for each project, where a poster explains how it works"></a>
+<a href="https://marinasofia.github.io/"><img src="assets/portfolio.gif" width="720" height="405" alt="The portfolio, a subway car that rides to a station for each project, where a poster explains how it works"></a>
 
-**[Visit my portfolio](https://marinasofia.github.io/)** · [LinkedIn](https://www.linkedin.com/in/marinasofiaml/)
+## Projects
 
-### Projects
+- **[The Plan Committee](https://github.com/marinasofia/plan-committee)** · [Live](https://plan-committee.pages.dev). AI agents argue in a group chat and agree on one real night out in NYC or London. One HTML file, no server, users bring a free AI key. 125 hand picked NYC spots plus over 1,300 places from NYC Open Data and OpenStreetMap, refreshed daily by a pipeline. Hash only Content Security Policy, zero dependencies.
+- **[Sourcer](https://github.com/marinasofia/sourcer)**. Reads company job boards every morning, drops what cannot fit with explainable rules and has Claude score the rest against my own evidence, quoting it. One October run read 48,031 postings, set aside 95% before any model call and judged 150. Python, LangGraph, SQLite, 90% coverage gate, mypy.
+- **[Knowledge Assistant](https://github.com/marinasofia/knowledge-assistant)**. A team asks questions about its own policies and gets the exact approved passage, both sides when two policies disagree, or a refusal when nothing covers it. 25 of 25 answerable questions answered and 10 of 10 unanswerable ones refused on a labeled set with a held out split. FastAPI, Postgres row level security, pgvector, React, 85 backend tests in CI.
+- **[Statement Agent](https://github.com/marinasofia/statement-agent)**. A LangGraph agent that turns PDF bank statements into Excel and trusts a number only when the balances reconcile to the cent. 11 of 11 synthetic statements pass an offline eval that replays recorded model answers in CI, at a median cost of $0.0025 per statement.
+- **[Bank Churn Model](https://github.com/marinasofia/bank-churn-model)**. Credit card churn model that turns a month of customer data into a ranked outreach list sized to a retention team's capacity, with reason codes and a fairness audit by gender and income. Test ROC AUC 0.871 with a bootstrap interval, drift gate, scikit-learn.
 
-- **[Sourcer](https://github.com/marinasofia/sourcer)** reads thousands of company job boards every morning, sets aside what cannot fit with plain rules and has an LLM judge the rest against my own work history.
-- **[Knowledge Assistant](https://github.com/marinasofia/knowledge-assistant)** answers questions from company documents with exact citations and says so when it does not know.
-- **[Statement Agent](https://github.com/marinasofia/statement-agent)** is a LangGraph agent that turns PDF bank statements into validated Excel reports.
+Also: **[sakura-terminal](https://github.com/marinasofia/sakura-terminal)**, local observability for Claude Code agents. Hooks stream every tool call into a secret masked log that a pixel art pet and a live code pane read.
+
+## Stack
+
+Python, SQL, pandas, scikit-learn, FastAPI, PostgreSQL, pgvector, LangGraph, Claude API, TypeScript, React, Tableau.
