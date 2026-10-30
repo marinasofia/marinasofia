@@ -1,6 +1,6 @@
 # Marina Martin
 
-I build data and AI systems in New York. I like questions with a number at the end, and I trust the number only after I've tried to break it.
+I'm a data and AI builder in New York. I came to LLMs from business intelligence and automation, so I build them the way an analyst would: the model reads, rules and arithmetic decide, and every answer carries its evidence. Most projects here started as tools I needed, and each one keeps an eval that fails when it drifts.
 
 <a href="https://marinasofia.github.io/"><img src="assets/portfolio.gif" width="720" height="405" alt="My portfolio, a New York subway car that rides to a station for each project, where a poster explains how it works"></a>
 
