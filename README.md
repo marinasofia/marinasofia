@@ -1,6 +1,8 @@
 # Marina Martin
 
-I'm a data and AI builder in New York. I came to LLMs from business intelligence and automation, so I build them the way an analyst would: the model reads, rules and arithmetic decide, and every answer carries its evidence. Most projects here started as tools I needed, and each one keeps an eval that fails when it drifts.
+**Data and AI builder in New York.** Business intelligence and automation experience across academic, startup and advisory settings, now building machine learning and LLM systems end to end.
+
+My portfolio is a New York subway car. Ride it to each project and read the poster on the platform.
 
 <a href="https://marinasofia.github.io/"><img src="assets/portfolio.gif" width="720" height="405" alt="My portfolio, a New York subway car that rides to a station for each project, where a poster explains how it works"></a>
 
